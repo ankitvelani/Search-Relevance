@@ -1,0 +1,103 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 13 Dec, 2017, 12:03:21 PM
+    Author     : tw
+*/
+body{
+    font-family: 'Yantramanav', sans-serif;
+
+}
+.gap-30{
+    min-height: 30px;
+}
+.gap-50{
+    min-height: 50px;
+}
+.gap-100{
+    min-height: 100px;
+}
+.gap-200{
+    min-height: 200px;
+}
+.logo{
+    //font-family: 'Gidugu', sans-serif;
+    //font-family: 'Caveat', cursive;
+    font-family: 'Kaushan Script', cursive;
+    font-weight: bold;
+    font-size: 55px;
+    color:#2f4f4f;
+    text-align: center;
+}
+.tagline{
+   font-family: 'Caveat', cursive;
+    font-weight: lighter;
+    font-size: 20px;
+    text-align: center;
+}
+.well{
+    background: none;
+}
+textarea {
+    resize: none;
+     overflow-y: hidden;
+      transition: ease-in-out, width .35s ease-in-out;
+}
+a{
+    text-decoration: none;
+    color:inherit;
+}
+ 
+.alert {
+    font-size: 17px;
+    padding: 15px;
+    margin-bottom: 20px;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    color: white;
+    background-color: #2f4f4f;
+}
+
+#share-buttons a {
+    text-decoration: red;
+}
+
+#share-buttons img {
+width: 40px;
+padding: 5px;
+border: 0;
+box-shadow: 0;
+display: inline;
+}
+ 
+.form-control{
+    border-radius: 0px;
+}
+.btn{
+    border-radius: 0px;
+}
+.alert{
+    border-radius: 0px;
+}
+.btn-primary{
+   background-color: #2f4f4f;
+   border-color: #2f4f4f;
+   background-image:none;
+}
+.btn-primary:hover{
+   background-color: #c11603;
+   border:#c11603;
+     background-image:none;
+}
+ 
+.navbar-brand{
+    font-family: 'Kaushan Script', cursive;
+    font-weight: bold;
+    font-size: 25px;
+}
+.navbar-inverse .navbar-brand {
+    color: #ffffff;
+}

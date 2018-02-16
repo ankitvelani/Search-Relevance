@@ -1,0 +1,15 @@
+Days after rolling out the slimmed down version of the original Gmail app, aka Gmail Go to the web users, Google on Thursday introduced the mobile version of the application as well. The new Android Oreo (Go edition) based Gmail Go app is now available for download via the Google Play store phone version. It is noteworthy that the Gmail Go app is compatible with devices running on Android 8.1 Oreo and later software versions only. The key highlights of the new Gmail app are that it consumes less space on smartphones and works perfectly even in poor internet connectivity.
+
+The Gmail Go app is designed specifically for the Android Go phones. So, if you use, or planning to buy a phone with 1GB or lower RAM, it's time for you to rejoice. The application is basically meant for smartphones with basic specifications and lower-end processors. As mentioned earlier, this toned down version of the regular app works perfectly in poor connectivity areas, consumes less data and also occupies a really small portion of the smartphone, while still providing all the basic functionalities.
+
+Gmail Go APK size is much smaller, around 9.51MB, compared to the original Gmail app which is as big as 20.66MB. The size of the app goes up to 24.80MB as opposed to 47.28MB for the regular app. So, Gmail Go is nearly half in size than the regular Gmail app that we have been using for the past so many years.
+
+The Go version of Gmail app works a lot like the original Gmail app, and also comes with some additional features and some cosmetic or design changes here and there. The tined down version app comes several features like -- smart inbox feature, basically segregates emails and shows the important emails first. Gmail Go displays the messages from friends and family first, while social and promotional emails are categorized neatly for when you have time.
+
+ALSO READ: Gmail Go for Android Go phones launched in India, now available on Google Play Store
+
+Gmail Go also comes with a feature that let users block spam emails before it hits their inbox. It basically keeps the user away from spam emails and in turn, protects the account from malicious activities and keeps it safe, secure and clutter free.
+
+Gmail Go comes with 15GB of free storage, this takes away the headache of deleting emails to save space. With Gmail Go, you can receive email notifications just like the original Gmail app. Interestingly, via Gmail Go, you can both read and respond both online and offline and also find messages quickly with a powerful search engine. You can also set up multiple accounts on Gmail Go, it basically lets you set up both Gmail and non-Gmail addresses -- Outlook.com, Yahoo Mail, or other IMAP/POP email.
+
+Overall, the Gmail Go interface looks almost exactly like the main app -- there's the multi-select option, and then there's also swipe gestures available. Because it is the lighter version of the original Gmail app, opening an email loads the entire content, including images pretty fast. Lastly, Gmail Go has launcher app shortcuts as well which will let you straight away jump to any of your account inboxes or composing a message.

@@ -1,0 +1,34 @@
+PNB fraud: Diamond, gold jewellery worth ₹5,100 crore seized from Nirav Modi premises
+
+Punjab National Bank (PNB), the country's second-largest public sector lender, is now in the middle of a ₹11,400 crore transaction fraud case.
+
+On Wednesday morning, PNB informed the Bombay Stock Exchange that it has detected some "fraudulent and unauthorised transactions" in one of its branches in Mumbai to the tune of $1771.69 million (approx). Following the announcement, the share price of the State-owned bank plunged 10%.
+
+Meanwhile, the Central Bureau of Investigation (CBI) received two complaints from PNB against billionaire diamantaire Nirav Modi and a jewellery company alleging fraudulent transactions worth about ₹11,400 crore, the Press Trust of India reported. This is in addition to the ₹280 crore fraud case that he is already under investigation for, again filed by PNB.
+
+Who is Nirav Modi?
+Nirav Modi, the billionaire in the middle of this controversy, is a luxury diamond jewellery designer who was ranked #57 in the Forbes list of India's billionaires in 2017. He is the founder and creative director of the Nirav Modi chain of diamond jewellery retail stores, and is the Chairman of Firestar International, the parent of the Nirav Modi chain, which has stores in key markets across the globe. His designs have been worn to the Oscars by 'Hidden Figures' star Taraji P. Henson and to the Golden Globes by Dakota Johnson, among others. Actor Priyanka Chopra is the brand ambassador.
+
+How the fraud was detected
+According to the complaint filed by PNB with the CBI on January 28, the fraudulent issuance of Letters of Undertakings (LOU) was detected at the Mid Corporate Branch, Brady House in Mumbai.
+
+A set of partnership firms -- Diamond R US, Solar Exports and Stellar Diamonds -- approached the bank on January 16 with a set of import documents and requested for Buyer's Credit to make payments to overseas suppliers. The firms have Nirav Modi, his brother Nishal Modi, Mr. Nirav's wife Ami Nirav Modi, and Mehul Chinubhai Chokshi as partners.
+
+Buyers Credit is, typically, a short-term loan facility extended to an importer by a bank to finance goods and services. It is a common mode of transaction in international trade where a bank extends credit to the importer and a finance agency based in the exporter's country guarantees the loan.
+
+As there was no sanctioned limit in the name of the firms, the branch officials requested the firms to furnish 100% cash margin for issuing the LOU for raising the Buyer's Credit. At this, the firms contested that they have been availing this facility in the past; but the branch records do not corroborate this.
+
+On digging further, the bank officials discovered that two of its employees had fraudulently issued LOUs in the past without following prescribed procedures and approvals. The employees had then transmitted SWIFT instructions to the overseas branches of Indian banks for raising Buyer's Credit without making entries in banking system to avoid detection.
+
+The complaint also said that the funds so raised for the payment of the Import Bills have not been utilised for such purposes in many cases.
+
+As per the FIR, five of the SWIFT messages (SWIFT is a messaging network used by financial institutions to securely transmit instruction) were issued to Allahabad Bank in Hong Kong and three to Axis Bank in Hong Kong.
+
+What will happen now?
+One of the worrying aspects of the scam is that in its statement, PNB says that based on the fraudulent transactions, other banks appear to have advanced money to the customers abroad. It goes on to add that these transactions are contingent in nature and any liability arising out of these on the bank will have to be decided based on the law and genuineness of underlying transactions.
+
+Meanwhile, Joint Secretary in Department of Financial Services Lok Rajan said “I don’t think this is out of control or too big a worry at this point. That is my broad sense.”
+
+However, the ₹11,400 crore scam comes at a time when the Central government is attempting to provide a breather to ailing PSBs, having announced a ₹2.11 lakh crore capital infusion to the sector in October 2017.
+
+As of now, as Reuters opined, the only good that could come out of the affair would be some fresh consideration to implementing better practices in public sector banking.

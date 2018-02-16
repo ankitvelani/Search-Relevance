@@ -1,0 +1,24 @@
+Chrome Ad Blocker: The Web's Largest Ad Company Is Also Now Advertising's Biggest Traffic Cop  
+Google, already one of the dominant players in the online advertising world, may soon have even more power in that space. It is now taking on the challenge of determining what's a good ad or a bad ad to decide which ones the majority of web users see.
+
+Google's Chrome browser, which is used by about 60 percent of desktop and mobile Internet users, on Thursday began automatically blocking some of the Web's most annoying ads. Those include video ads that autoplay with sound, pop-up ads with countdowns and "sticky" ads that take up a large portion of the screen no matter how much you scroll down to lose them.
+
+Their types of ads do not meet new standards set by the Coalition for Better Ads, a group of Internet companies, online advertisers and publishers looking for a way to make online advertising more palatable to users. (The Washington Post is a member of the Interactive Advertising Bureau, one of the groups involved in the coalition.)
+
+Google's stated goal is to make the Web less infuriating to navigate. "It's clear that annoying ads degrade what we all love about the Web," Chrome Vice President Rahul Roy-Chowdhury said Tuesday in a company blog post.
+
+Using the coalition's standards, Google will evaluate the advertisements on websites and rate them as acceptable or failing. Sites then have 30 days to shape up their advertising and submit themselves for reevaluation or face having their ads blocked by Chrome.
+
+According to Google, it has so far identified 1,500 of the Internet's most-trafficked sites with ads that violate the new standards. About 850 of those have a failing status, meaning they could see their ads blocked within the next 30 days.
+
+Publishers are the most likely to take an initial hit from Google's ad changes, said Peter Reinhardt, chief executive of the Segment customer data platform. Media companies have been more aggressive about the types of advertisements they use, he said, as Google and Facebook have tightened their hold on the digital ad industry. Those two Internet giants received 60 percent of the country's digital advertising dollars in 2017, according to the research firm eMarketer.
+
+Google's move with Chrome follows Apple's decision last June to put features addressing online advertising into its Safari browser. But the companies' approaches to ad blocking are quite different, Reinhardt said. Apple's changes targeted advertisers who track users across the Web and compile data, rather than blocking the ads' appearance. Since the Safari change, some advertisers have seen revenue fall by as much as 20 percent, Reinhardt said.
+
+Google aims to change how websites look and behave when people are using them. It also offers an alternative to third-party ad-blockers, which often block both ads and trackers, that may be more palatable to Google and other companies that profit from advertising. By addressing the ads that Google surveys have found to be most annoying, Chrome's tool may persuade Internet users not to take more drastic options that hide or eliminate all online ads on their screens.
+
+An Internet free of tracking and ads is obviously not Google's endgame. After all, the company makes most of its money through advertising -- more than $95 billion last year. While some see this as reforming the ad industry from the inside, Google is fielding criticism for the way the blocker is being implemented.
+
+Some note that the company had a lot of say in writing the standards, according to a report from the Wall Street Journal. Paul Boyle, vice president of public policy for the News Media Alliance, told the Associated Press that Google's decision to incorporate these standards into Chrome turns voluntary standards into de facto law.
+
+Reinhardt said the new Chrome feature likely will accelerate new trends in the digital ad space, including fueling Google and Facebook's ad duopoly. As for publishers, he said, it's already clear that many are pushing subscriptions more heavily to offset the need for more aggressive advertising -- a trend that Google's new tool will likely encourage.
